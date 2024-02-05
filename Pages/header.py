@@ -11,10 +11,12 @@ class Header(Helper):
     
     def signIn(self):
         self.find_and_click(self.btn_login)
+        #TODO, add logging here, try except handdling
 
     def item_search(self):
         self.find_and_send_keys(self.input_search_field, data.search_text)
         self.find_and_click(self.btn_search)
+        #TODO, add logging here
       
 
 

@@ -15,3 +15,4 @@ class LogIn(Helper):
         self.find_and_send_keys(self.input_password, myconfig.password)
         self.find_and_click(self.btn_click)
       
+      

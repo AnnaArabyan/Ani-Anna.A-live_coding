@@ -5,7 +5,7 @@ import random
 class DataHandling(Helper):
         
     search_result = (By.XPATH, '//a[@class="Vr-z"]')
-
+    # TODO, no need to keep all brand and colors locators, instead get locators to all elements under brand and use random.choice to click on random checkbox
     Chloe = (By.XPATH, '//a[@class="sF-z" and span="Chloe"]')
     GUESS = (By.XPATH, '//a[@class="sF-z" and span="GUESS"]')
     Lacoste = (By.XPATH, '//a[@class="sF-z" and span="Lacoste"]')

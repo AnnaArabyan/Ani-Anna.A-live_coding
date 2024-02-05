@@ -12,6 +12,7 @@ class Helper():
         self.browser.get(url)
         self.browser.maximize_window()
         self.browser.set_page_load_timeout(20)
+        # TODO, add logging here
      
     def find_elem_ui(self,loc, sec=60):
         try:
@@ -31,6 +32,7 @@ class Helper():
         elem = WebDriverWait(self.browser, sec).until(EC.element_to_be_clickable(loc))
         self.browser.execute_script("arguments[0].scrollIntoView(true);", elem)
         elem.click()
+        #TODO, add logging here
        
 
     def find_and_send_keys(self, loc, inp_text, sec=20):
@@ -53,13 +55,13 @@ class Helper():
         elem = WebDriverWait(self.browser, sec).until(EC.presence_of_element_located(loc))
         self.browser.execute_script("arguments[0].scrollIntoView(true);", elem)
         elem.click()
-        
+        #TODO, add logging here
 
     def element_count(self, loc):
         elems = self.browser.find_elements(*loc)
         count = len(elems)
         print(count)
-        assert count > 0
+        assert count > 0 # TODO, no need to keep assertion in helpers, instead return data and check in test
         return count
 
    

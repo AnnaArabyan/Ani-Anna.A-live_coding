@@ -4,6 +4,7 @@ from selenium import webdriver
 import pytest
 import myconfig
 
+# TODO, remove extra code
 # @pytest.fixture()
 # def driver():
 #     try:
