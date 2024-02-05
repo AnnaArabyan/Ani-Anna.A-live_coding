@@ -1,0 +1,288 @@
+INFO:root:Start_time: 2024-02-02 10:25:43.304829
+INFO:root:End_time: 2024-02-02 10:25:44.988038
+INFO:root:Start_time: 2024-02-02 10:25:59.975458
+INFO:root:End_time: 2024-02-02 10:26:01.582766
+INFO:root:Start_time: 2024-02-02 10:31:21.376917
+INFO:root:End_time: 2024-02-02 10:31:25.981555
+INFO:root:Start_time: 2024-02-02 10:44:04.855518
+INFO:root:End_time: 2024-02-02 10:44:10.281141
+INFO:root:Start_time: 2024-02-02 10:44:45.499739
+INFO:root:End_time: 2024-02-02 10:44:53.033216
+INFO:root:Start_time: 2024-02-02 10:45:18.253374
+INFO:root:End_time: 2024-02-02 10:45:26.577020
+INFO:root:Start_time: 2024-02-02 10:54:19.860872
+INFO:root:End_time: 2024-02-02 10:54:28.246623
+INFO:root:Start_time: 2024-02-02 10:54:50.562389
+INFO:root:End_time: 2024-02-02 10:55:02.808011
+INFO:root:Start_time: 2024-02-02 11:03:47.972649
+INFO:root:End_time: 2024-02-02 11:04:00.164098
+INFO:root:Start_time: 2024-02-02 11:10:34.806520
+INFO:root:End_time: 2024-02-02 11:10:46.339785
+INFO:root:Start_time: 2024-02-02 11:40:14.926154
+INFO:root:End_time: 2024-02-02 11:40:27.022646
+INFO:root:Start_time: 2024-02-02 11:51:27.627276
+INFO:root:End_time: 2024-02-02 11:52:02.677248
+INFO:root:Start_time: 2024-02-02 12:11:59.956050
+INFO:root:Start_time: 2024-02-02 12:13:01.805223
+INFO:root:End_time: 2024-02-02 12:13:22.223381
+INFO:root:Start_time: 2024-02-02 12:14:23.976052
+INFO:root:End_time: 2024-02-02 12:15:00.418937
+INFO:root:Start_time: 2024-02-02 12:17:08.414437
+INFO:root:Start_time: 2024-02-02 12:19:38.567892
+INFO:root:Start_time: 2024-02-02 12:20:19.918758
+INFO:root:Start_time: 2024-02-02 12:22:53.209780
+INFO:root:Start_time: 2024-02-02 12:36:14.696794
+INFO:root:Start_time: 2024-02-02 12:39:03.812452
+INFO:root:End_time: 2024-02-02 12:40:10.134623
+INFO:root:Start_time: 2024-02-02 12:40:22.768345
+INFO:root:Start_time: 2024-02-02 12:48:26.316491
+INFO:root:Start_time: 2024-02-02 13:01:38.088115
+INFO:root:Start_time: 2024-02-02 13:06:56.189748
+INFO:root:Start_time: 2024-02-02 13:09:36.436995
+INFO:root:Element is not visible.
+INFO:root:Element is not visible.
+INFO:root:End_time: 2024-02-02 13:12:03.720229
+INFO:root:Start_time: 2024-02-02 13:25:27.942186
+INFO:root:Element is not visible.
+INFO:root:End_time: 2024-02-02 13:26:55.530903
+INFO:root:Start_time: 2024-02-02 13:27:38.552132
+INFO:root:Element is not visible.
+INFO:root:End_time: 2024-02-02 13:29:10.553242
+INFO:root:Start_time: 2024-02-02 15:36:06.052581
+INFO:root:Start_time: 2024-02-02 15:49:09.894463
+INFO:root:Element is not visible.
+INFO:root:Element is not visible.
+INFO:root:End_time: 2024-02-02 15:51:42.007582
+INFO:root:Start_time: 2024-02-02 16:03:15.521235
+INFO:root:Start_time: 2024-02-02 16:22:55.748577
+INFO:root:Start_time: 2024-02-02 16:23:29.084718
+INFO:root:Start_time: 2024-02-02 16:24:01.944811
+INFO:root:Start_time: 2024-02-02 16:25:50.441784
+INFO:root:Start_time: 2024-02-02 16:37:19.691034
+INFO:root:Start_time: 2024-02-02 16:39:16.996925
+INFO:root:Start_time: 2024-02-02 16:39:49.785856
+INFO:root:Start_time: 2024-02-02 16:53:27.493990
+INFO:root:Start_time: 2024-02-02 16:54:49.125198
+INFO:root:Start_time: 2024-02-02 16:56:03.124003
+INFO:root:Start_time: 2024-02-02 17:09:09.414696
+INFO:root:Element is not visible.
+INFO:root:End_time: 2024-02-02 17:10:17.249122
+INFO:root:Start_time: 2024-02-02 17:11:29.286631
+INFO:root:Element is not visible.
+INFO:root:Element is not visible.
+INFO:root:End_time: 2024-02-02 17:14:08.060842
+INFO:root:Start_time: 2024-02-02 17:18:52.071278
+INFO:root:Element is not visible.
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-02 17:22:49.090331
+INFO:root:Element is not visible.
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002FC797C3850>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/21cd3803e17e990935251bcc836f2cfc/element
+INFO:root:Start_time: 2024-02-02 17:24:18.735340
+INFO:root:Start_time: 2024-02-02 17:26:50.573096
+INFO:root:Element is not visible.
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-03 17:10:12.102408
+INFO:root:Start_time: 2024-02-03 17:11:01.582395
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-03 17:38:26.701927
+INFO:root:Element is not visible.
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-03 17:42:13.790793
+INFO:root:Element is not visible.
+INFO:root:End_time: 2024-02-03 17:43:55.538799
+INFO:root:Start_time: 2024-02-03 18:25:33.539523
+INFO:root:Start_time: 2024-02-03 18:43:34.775937
+INFO:root:Start_time: 2024-02-03 18:46:06.944971
+INFO:root:Start_time: 2024-02-03 18:48:22.395472
+INFO:root:Start_time: 2024-02-03 18:50:57.511130
+INFO:root:Start_time: 2024-02-03 18:54:02.699861
+INFO:root:Element is not visible.
+INFO:root:End_time: 2024-02-03 18:55:44.976886
+INFO:root:Start_time: 2024-02-04 11:51:51.963683
+INFO:root:Element is not visible.
+INFO:root:Element is not visible.
+INFO:root:End_time: 2024-02-04 11:54:41.968914
+INFO:root:Start_time: 2024-02-04 16:55:14.426610
+INFO:root:End_time: 2024-02-04 16:55:54.898613
+INFO:root:Start_time: 2024-02-04 16:58:27.989907
+INFO:root:Element is not visible.
+INFO:root:End_time: 2024-02-04 17:00:07.613547
+INFO:root:Start_time: 2024-02-04 17:23:09.764121
+INFO:root:Element is not visible.
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-04 17:30:23.318758
+INFO:root:Start_time: 2024-02-04 17:32:21.227712
+INFO:root:Element is not visible.
+INFO:root:Element is not visible.
+INFO:root:End_time: 2024-02-04 17:35:00.156471
+INFO:root:Start_time: 2024-02-04 17:55:20.926228
+INFO:root:Start_time: 2024-02-04 17:56:20.025967
+INFO:root:End_time: 2024-02-04 17:57:00.120745
+INFO:root:Start_time: 2024-02-04 18:03:46.956301
+INFO:root:Element is not visible.
+INFO:root:End_time: 2024-02-04 18:05:30.541476
+INFO:root:Start_time: 2024-02-04 18:12:59.677189
+INFO:root:Element is not visible.
+INFO:root:End_time: 2024-02-04 18:14:40.091354
+INFO:root:Start_time: 2024-02-04 18:16:36.916480
+INFO:root:Element is not visible.
+INFO:root:Element is not visible.
+INFO:root:End_time: 2024-02-04 18:19:17.242036
+INFO:root:Start_time: 2024-02-04 18:23:20.644816
+INFO:root:Text value of the selected element: Lacoste (1)
+INFO:root:Element is not visible.
+INFO:root:Element is not visible.
+INFO:root:End_time: 2024-02-04 18:25:59.890788
+INFO:root:Start_time: 2024-02-04 18:28:48.832322
+INFO:root:Text brand value of the selected element: RAEN Optics (1)
+INFO:root:Start_time: 2024-02-04 18:32:12.535741
+INFO:root:Start_time: 2024-02-04 18:33:13.342614
+INFO:root:Text brand value of the selected element: Timberland (1)
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-04 18:35:05.954396
+INFO:root:Text brand value of the selected element: Timberland (1)
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-04 18:37:11.077186
+INFO:root:Start_time: 2024-02-04 18:37:56.992148
+INFO:root:Start_time: 2024-02-04 18:38:39.205646
+INFO:root:Text brand value of the selected element: GUESS (9)
+INFO:root:End_time: 2024-02-04 18:39:18.214279
+INFO:root:Start_time: 2024-02-04 18:41:31.649657
+INFO:root:Text brand value of the selected element: PSD (6)
+INFO:root:Text price value of the selected element: $30.00 and Under (6)
+INFO:root:Element is not visible.
+INFO:root:End_time: 2024-02-04 18:43:10.316346
+INFO:root:Start_time: 2024-02-04 18:44:23.678592
+INFO:root:Text brand value of the selected element: GUESS (9)
+INFO:root:Text price value of the selected element: $50.00 and Under (9)
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-04 18:46:11.885290
+INFO:root:Text brand value of the selected element: GUESS (9)
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-04 18:48:05.024636
+INFO:root:Start_time: 2024-02-04 18:48:30.818794
+INFO:root:Start_time: 2024-02-04 18:49:01.013075
+INFO:root:Start_time: 2024-02-04 18:49:54.947630
+INFO:root:Start_time: 2024-02-04 18:50:38.283746
+INFO:root:Text brand value of the selected element: Lacoste (1)
+INFO:root:Text price value of the selected element: $75.00 and Under (1)
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-04 18:52:20.546595
+INFO:root:Text brand value of the selected element: Chloe (1)
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-04 18:53:52.756498
+INFO:root:Text brand value of the selected element: Royal Robbins (4)
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-04 18:55:32.872971
+INFO:root:Text brand value of the selected element: Chloe (1)
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-04 19:07:20.408988
+INFO:root:Text brand value of the selected element: PSD (6)
+INFO:root:Start_time: 2024-02-04 19:07:49.067835
+INFO:root:Text brand value of the selected element: Lacoste (1)
+INFO:root:Start_time: 2024-02-04 19:14:01.681897
+INFO:root:Text brand value of the selected element: Nike Kids (2)
+INFO:root:Text price value of the selected element: $60.00 and Under (2)
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-04 19:16:02.956007
+INFO:root:Text brand value of the selected element: ro.sham.bo baby (6)
+INFO:root:Text price value of the selected element: $30.00 and Under (6)
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-04 19:17:53.988272
+INFO:root:Text brand value of the selected element: Royal Robbins (4)
+INFO:root:Text price value of the selected element: $75.00 and Under (4)
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-05 12:13:20.353516
+INFO:root:Start_time: 2024-02-05 12:15:07.439527
+INFO:root:Start_time: 2024-02-05 12:17:49.386256
+INFO:root:Start_time: 2024-02-05 12:22:01.914726
+INFO:root:Start_time: 2024-02-05 12:23:35.898165
+INFO:root:Start_time: 2024-02-05 12:25:09.797434
+INFO:root:Start_time: 2024-02-05 12:46:39.532081
+INFO:root:Start_time: 2024-02-05 12:48:18.257444
+INFO:root:Text brand value of the selected element: ro.sham.bo baby (6)
+INFO:root:Text price value of the selected element: $50.00 and Under (6)
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-05 12:50:57.336439
+INFO:root:Start_time: 2024-02-05 12:53:31.315868
+INFO:root:Text brand value of the selected element: PSD (5)
+INFO:root:Text price value of the selected element: $40.00 and Under (5)
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-05 12:55:01.169476
+INFO:root:Text brand value of the selected element: ro.sham.bo baby (6)
+INFO:root:Text price value of the selected element: $25.00 and Under (6)
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-05 12:57:27.764600
+INFO:root:Start_time: 2024-02-05 13:20:13.213717
+INFO:root:Start_time: 2024-02-05 13:21:34.031999
+INFO:root:Start_time: 2024-02-05 13:28:27.272529
+INFO:root:Start_time: 2024-02-05 14:42:32.094286
+INFO:root:Start_time: 2024-02-05 14:43:05.822900
+INFO:root:Text brand value of the selected element: Lacoste (1)
+INFO:root:Text price value of the selected element: $70.00 and Under (1)
+INFO:root:Element is not visible.
+INFO:root:Start_time: 2024-02-05 17:07:36.010920
+INFO:root:Start_time: 2024-02-05 17:09:18.334113
+WARNING:root:No brand links found.
+INFO:root:Start_time: 2024-02-05 17:11:42.464722
+INFO:root:Start_time: 2024-02-05 17:12:23.866647
+INFO:root:Start_time: 2024-02-05 17:14:08.326387
+INFO:root:Element is not visible.
+INFO:root:End_time: 2024-02-05 17:14:30.724123
+INFO:root:Start_time: 2024-02-05 17:16:12.473798
+INFO:root:Text brand value of the selected element: Nike Kids
+INFO:root:Text price value of the selected element: $200.00 and Over
+INFO:root:Element is not visible.
+INFO:root:Text color value of the selected element: Burgundy
+INFO:root:End_time: 2024-02-05 17:16:38.682905
+INFO:root:Start_time: 2024-02-05 17:22:55.631795
+INFO:root:Start_time: 2024-02-05 17:23:59.170524
+INFO:root:Text brand value of the selected element: GUESS
+INFO:root:Text price value of the selected element: $200.00 and Over
+INFO:root:Element is not visible.
+INFO:root:Text color value of the selected element: Multi
+INFO:root:End_time: 2024-02-05 17:24:26.794184
+INFO:root:Start_time: 2024-02-05 17:25:03.032506
+INFO:root:Text brand value of the selected element: Nike Kids
+INFO:root:Text price value of the selected element: $200.00 and Over
+INFO:root:Element is not visible.
+INFO:root:Text color value of the selected element: Burgundy
+INFO:root:Text brand value of the selected element: Ray-Ban
+INFO:root:Text price value of the selected element: $200.00 and Under
+INFO:root:Element is not visible.
+INFO:root:Text color value of the selected element: Gold
+INFO:root:Start_time: 2024-02-05 19:20:53.035900
+INFO:root:Text brand value of the selected element: Timberland
+INFO:root:Text price value of the selected element: $200.00 and Over
+INFO:root:Element is not visible.
+INFO:root:Text color value of the selected element: Silver
+INFO:root:Text brand value of the selected element: Nike Kids
+INFO:root:Text price value of the selected element: $60.00 and Under
+INFO:root:Start_time: 2024-02-05 19:22:49.330135
+INFO:root:Text brand value of the selected element: Lacoste
+INFO:root:Text price value of the selected element: $200.00 and Over
+INFO:root:Element is not visible.
+INFO:root:Text color value of the selected element: Brown
+INFO:root:End_time: 2024-02-05 19:23:16.180955
+INFO:root:Start_time: 2024-02-05 19:26:32.797833
+INFO:root:Text brand value of the selected element: ro.sham.bo baby
+INFO:root:Text price value of the selected element: $200.00 and Over
+INFO:root:Element is not visible.
+INFO:root:Text color value of the selected element: Brown
+INFO:root:End_time: 2024-02-05 19:27:00.128592
+INFO:root:Start_time: 2024-02-05 19:53:04.577234
+INFO:root:Text brand value of the selected element: Lacoste
+INFO:root:Text price value of the selected element: $200.00 and Over
+INFO:root:Element is not visible.
+INFO:root:Text color value of the selected element: Green
+INFO:root:End_time: 2024-02-05 19:53:35.221910
+INFO:root:Start_time: 2024-02-05 20:42:41.395353
+INFO:root:Start_time: 2024-02-05 20:42:46.627668
+INFO:root:Start_time: 2024-02-05 20:44:14.629216
+INFO:root:Start_time: 2024-02-05 20:45:26.685569
+INFO:root:Start_time: 2024-02-05 20:56:49.884428
+INFO:root:Start_time: 2024-02-05 20:59:39.461931
+INFO:root:Start_time: 2024-02-05 21:00:02.210091
+INFO:root:Start_time: 2024-02-05 21:03:40.127897
+INFO:root:Start_time: 2024-02-05 21:04:58.156364
+INFO:root:Start_time: 2024-02-05 21:05:12.028586

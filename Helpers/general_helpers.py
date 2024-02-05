@@ -11,7 +11,7 @@ class Helper():
     def go_to_page(self, url):
         self.browser.get(url)
         self.browser.maximize_window()
-        self.browser.set_page_load_timeout(20)
+        self.browser.set_page_load_timeout(60)
      
     def find_elem_ui(self,loc, sec=60):
         try:
@@ -27,15 +27,16 @@ class Helper():
             EC.presence_of_element_located(loc))
         return elem
 
-    def find_and_click(self, loc, sec=15):
+    def find_and_click(self, loc, sec=60):
         elem = WebDriverWait(self.browser, sec).until(EC.element_to_be_clickable(loc))
         self.browser.execute_script("arguments[0].scrollIntoView(true);", elem)
         elem.click()
        
 
-    def find_and_send_keys(self, loc, inp_text, sec=20):
+    def find_and_send_keys(self, loc, inp_text, sec=60):
         elem = self.find_elem_ui(loc, sec)
         elem.send_keys(inp_text)
+
 
     def find_elem_ui_and_click(self, loc, sec=60):
         try:
@@ -48,7 +49,6 @@ class Helper():
             logging.info("Element is not visible.")
        
             
-        
     def find_elem_dom_and_click(self, loc, sec=60):
         elem = WebDriverWait(self.browser, sec).until(EC.presence_of_element_located(loc))
         self.browser.execute_script("arguments[0].scrollIntoView(true);", elem)

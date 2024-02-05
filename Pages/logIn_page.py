@@ -2,8 +2,6 @@ from selenium.webdriver.common.by import By
 from Helpers.general_helpers import Helper
 import myconfig
 
-
-
 class LogIn(Helper):
     input_email = (By.XPATH, '//input[@id="ap_email"]')
     input_password = (By.XPATH, '//input[@id="ap_password"]')

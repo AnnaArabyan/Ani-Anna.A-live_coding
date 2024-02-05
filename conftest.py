@@ -4,29 +4,29 @@ from selenium import webdriver
 import pytest
 import myconfig
 
-# @pytest.fixture()
-# def driver():
-#     try:
-#         options = webdriver.ChromeOptions()
-#         options.add_argument('--headless')
-#         driver = webdriver.Chrome(options=options)
-
-#         logging.info("The driver is initialized")
-#         driver.maximize_window()
-#         yield driver
-#         driver.quit()
-#     except Exception as error:
-#         raise Exception(error)
-
 @pytest.fixture()
 def driver():
     try:
-        driver = webdriver.Chrome()
+        options = webdriver.ChromeOptions()
+        options.add_argument('--headless')
+        driver = webdriver.Chrome(options=options)
+
+        logging.info("The driver is initialized")
         driver.maximize_window()
         yield driver
         driver.quit()
     except Exception as error:
-        raise Exception(error)   
+        raise Exception(error)
+
+# @pytest.fixture()
+# def driver():
+#     try:
+#         driver = webdriver.Chrome()
+#         driver.maximize_window()
+#         yield driver
+#         driver.quit()
+#     except Exception as error:
+#         raise Exception(error)   
 
 def pytest_configure():
     logging.basicConfig(
