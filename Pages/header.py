@@ -11,7 +11,9 @@ class Header(Helper):
     
     def signIn(self):
         self.find_and_click(self.btn_login)
+        #TODO, add logging here, try except handdling
 
+<<<<<<< HEAD
     def hover_to_accessories(self):
         self.hover_to_element(self.btn_accessories)
 
@@ -22,6 +24,12 @@ class Header(Helper):
         
 
     
+=======
+    def item_search(self):
+        self.find_and_send_keys(self.input_search_field, data.search_text)
+        self.find_and_click(self.btn_search)
+        #TODO, add logging here
+>>>>>>> 7296fef878c39f2000b2417fc1f0e7b6b3a90971
       
 
 

@@ -8,7 +8,7 @@ import myconfig
 import time
 
 
-
+# TODO, change test name, its not a runner
 def test_info_search(driver):
     logging.info("Start_time: %s", datetime.datetime.now())
 

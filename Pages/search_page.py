@@ -5,6 +5,7 @@ import logging
 import time
 class DataHandling(Helper):
         
+<<<<<<< HEAD
     search_result = (By.XPATH, '//a[@class="Wm-z"]')
 
     Chloe = (By.XPATH, '//a[@class="FE-z" and span="Chloe"]')
@@ -17,6 +18,20 @@ class DataHandling(Helper):
     ro_sham_bo_baby = (By.XPATH, '//a[@class="FE-z" and span="ro.sham.bo baby"]')
     Royal_Robbins = (By.XPATH, '//a[@class="FE-z" and span="Royal Robbins"]')
     Timberland = (By.XPATH, '//a[@class="FE-z" and span="Timberland"]')
+=======
+    search_result = (By.XPATH, '//a[@class="Vr-z"]')
+    # TODO, no need to keep all brand and colors locators, instead get locators to all elements under brand and use random.choice to click on random checkbox
+    Chloe = (By.XPATH, '//a[@class="sF-z" and span="Chloe"]')
+    GUESS = (By.XPATH, '//a[@class="sF-z" and span="GUESS"]')
+    Lacoste = (By.XPATH, '//a[@class="sF-z" and span="Lacoste"]')
+    Nike_Kids = (By.XPATH, '//a[@class="sF-z" and span="Nike Kids"]')
+    PSD = (By.XPATH, '//a[@class="sF-z" and span="PSD"]')
+    RAEN_Optics = (By.XPATH, '//a[@class="sF-z" and span="RAEN Optics"]')
+    Ray_Ban = (By.XPATH, '//a[@class="sF-z" and span="Ray-Ban"]')
+    ro_sham_bo_baby = (By.XPATH, '//a[@class="sF-z" and span="ro.sham.bo baby"]')
+    Royal_Robbins = (By.XPATH, '//a[@class="sF-z" and span="Royal Robbins"]')
+    Timberland = (By.XPATH, '//a[@class="sF-z" and span="Timberland"]')
+>>>>>>> 7296fef878c39f2000b2417fc1f0e7b6b3a90971
 
     brand_list = [Chloe,GUESS, Lacoste, Nike_Kids, PSD, RAEN_Optics, Ray_Ban, ro_sham_bo_baby, Royal_Robbins, Timberland]
 
